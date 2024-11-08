@@ -146,6 +146,7 @@ error: compilation failed
 ## Conclusão
 
 Para garantir a instância única da classe, basta direcionar o meio de instância para uma funcão estática que retorna uma nova instância da classe, caso ainda não exista, senão retorna a instância anterior.
+
 ## Fontes:
 
 1. https://www.geeksforgeeks.org/software-design-patterns/

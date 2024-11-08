@@ -15,3 +15,8 @@ Existem 5 tipos de creational design patterns:
 3. Singleton Method Design Pattern
 4. Prototype Method Design Patterns
 5. Builder Method Design Patterns
+
+
+## Fontes:
+
+1. https://www.geeksforgeeks.org/software-design-patterns/
