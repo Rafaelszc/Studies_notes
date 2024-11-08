@@ -12,7 +12,7 @@ Esse será um repositório de registro dos meus estudos na base da programacão.
   - [ ] Grafo
 
 - [ ] Algoritmos de ordenacão
-  - [ ] Selection Sort
+  - [X] [Selection Sort](sort_algorithms/selection_sort.md) ([C](src/sort_algorithms/selection_sort.c), [Java](src/sort_algorithms/selection_sort.java))
   - [ ] Bubble Sort
   - [ ] Insertion sort
   - [ ] Quick Sort
