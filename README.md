@@ -28,7 +28,7 @@ Esse será um repositório de registro dos meus estudos na base da programacão.
 - [ ] Design Patterns
   - [ ] [Definicão e seus tipos](design_patterns/design_patterns_question_1.md)
   - [ ] Creational Design Pattern
-    - [x] [Singleton](design_patterns/design_patterns_question_1.md)
+    - [x] [Singleton](design_patterns/singleton.md)
     - [ ] Factory Method Pattern
     - [ ] Abstract Factory Method
     - [ ] Prototype Method Pattern
