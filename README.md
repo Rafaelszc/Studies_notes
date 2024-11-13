@@ -3,7 +3,7 @@
 Esse será um repositório de registro dos meus estudos na base da programacão.
 
 - [ ] Estrutura de dados:
-  - [ ] Definicão
+  - [X] [Definicão](data_structures/data_structures.md)
   - [ ] Array
   - [ ] Fila
   - [ ] Pilha
