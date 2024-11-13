@@ -3,7 +3,7 @@
 Esse será um repositório de registro dos meus estudos na base da programacão.
 
 - [ ] Estrutura de dados:
-  - [X] [Definicão](data_structures/data_structures.md)
+  - [X] [Definicão](docs/data_structures/data_structures.md)
   - [ ] Array
   - [ ] Fila
   - [ ] Pilha
@@ -12,7 +12,7 @@ Esse será um repositório de registro dos meus estudos na base da programacão.
   - [ ] Grafo
 
 - [ ] Algoritmos de ordenacão
-  - [X] [Selection Sort](sort_algorithms/selection_sort.md) ([C](src/sort_algorithms/selection_sort.c), [Java](src/sort_algorithms/selection_sort.java))
+  - [X] [Selection Sort](docs/sort_algorithms/selection_sort.md) ([C](src/sort_algorithms/selection_sort.c), [Java](src/sort_algorithms/selection_sort.java))
   - [ ] Bubble Sort
   - [ ] Insertion sort
   - [ ] Quick Sort
@@ -44,9 +44,9 @@ Esse será um repositório de registro dos meus estudos na base da programacão.
   - [ ] Seguranca de redes
 
 - [ ] Design Patterns
-  - [ ] [Definicão e seus tipos](design_patterns/design_patterns.md)
+  - [ ] [Definicão e seus tipos](docs/design_patterns/design_patterns.md)
   - [ ] Creational Design Pattern
-    - [x] [Singleton](design_patterns/singleton.md)
+    - [x] [Singleton](docs/design_patterns/singleton.md)
     - [ ] Factory Method Pattern
     - [ ] Abstract Factory Method
     - [ ] Prototype Method Pattern
