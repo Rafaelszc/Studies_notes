@@ -95,7 +95,7 @@ class MySingleton{
         return instance;
     }
 
-    public static void say_hello(String name){
+    public void say_hello(String name){
         System.out.println("Hello, " + name);
     }
 }
